@@ -17,7 +17,7 @@ table = soup.find_all('div', class_='sportsbook-event-accordion__wrapper expande
 players = []
 
 for row in table:
-    name = row.find('a', class_='sportsbook-event-accordion__title').text[:-8]
+    name = row.find('a', class_='sportsbook-event-accordion__title').text
     date = row.find('span', class_='sportsbook-event-accordion__date').text
     overAndUnder = row.find_all('span', class_='sportsbook-outcome-cell__label')
     over = overAndUnder[0].text[5:]
