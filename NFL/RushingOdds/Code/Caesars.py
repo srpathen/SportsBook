@@ -9,8 +9,8 @@ from playwright.sync_api import Page
 from playwright.sync_api import Locator
 
 engine = BrowserEngine("https://sportsbook.caesars.com/ca/on/bet/americanfootball/futures?id=007d7c61-07a7-4e18-bb40-15104b6eac92", headless=False, delay=1)
-engine.doAction(Locator.click, engine.getObject(Page.get_by_text, args=["Total Regular Season Passing Yards"]))
-for i in range(50):
+engine.doAction(Locator.click, engine.getObject(Page.get_by_text, args=["Total Regular Season Rushing Yards"]))
+for i in range(80):
     engine.returnPage().mouse.wheel(0, 100)
     time.sleep(0.3)
 content = engine.source()
@@ -31,7 +31,7 @@ for row in table:
     underOdd = overNUnderOdds[1].text
     players.append([name, date, over, overOdd, under, underOdd])
 
-with open('NFL/PassingOdds/Data/Caesars.csv', 'w', newline='') as file:
+with open('NFL/RushingOdds/Data/Caesars.csv', 'w', newline='') as file:
     writer = csv.writer(file)
     writer.writerow(["Name","Date", "Over", "Over Odds", "Under", "Under Odds"])
     for player in players:

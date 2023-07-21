@@ -66,3 +66,6 @@ class BrowserEngine():
 
     def source(self):
         return self.__page__.content()
+
+    def returnPage(self):
+        return self.__page__

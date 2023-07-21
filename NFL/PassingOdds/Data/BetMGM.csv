@@ -1,30 +1,25 @@
-Name,Odds
-Patrick Mahomes,+400 
-Joe Burrow,+600 
-Justin Herbert,+600 
-Kirk Cousins,+900 
-Josh Allen,+900 
-Tua Tagovailoa,+1200 
-Trevor Lawrence,+1200 
-Jared Goff,+1400 
-Dak Prescott,+1800 
-Derek Carr,+1800 
-Matthew Stafford,+1800 
-Jalen Hurts,+2000 
-Aaron Rodgers,+2000 
-Geno Smith,+2500 
-Jimmy Garoppolo,+2500 
-Russell Wilson,+2500 
-Deshaun Watson,+3000 
-Lamar Jackson,+3000 
-Jordan Love,+5000 
-Daniel Jones,+5000 
-Kenny Pickett,+6600 
-Mac Jones,+6600 
-CJ Stroud,+8000 
-Bryce Young,+8000 
-Desmond Ridder,+8000 
-Baker Mayfield,+8000 
-Justin Fields,+10000 
-Anthony Richardson,+10000 
-Sam Howell,+10000 
+Name,Date,Over,Over Odds,Under,Under Odds
+Justin Fields,1/7/24 1:00 PM,2899.5,-110,2899.5,-110
+Daniel Jones,1/7/24 1:00 PM,3199.5,-110,3199.5,-110
+CJ Stroud,1/7/24 1:00 PM,3199.5,-110,3199.5,-110
+Mac Jones,1/7/24 1:00 PM,3249.5,-110,3249.5,-110
+Bryce Young,1/7/24 1:00 PM,3299.5,-110,3299.5,-110
+Lamar Jackson,1/7/24 1:00 PM,3499.5,-110,3499.5,-110
+Jalen Hurts,1/7/24 1:00 PM,3599.5,-110,3599.5,-110
+Russell Wilson,1/7/24 1:00 PM,3725.5,-110,3725.5,-110
+Geno Smith,1/7/24 1:00 PM,3799.5,-115,3799.5,-105
+Tua Tagovailoa,1/7/24 1:00 PM,3825.5,-110,3825.5,-110
+Jared Goff,1/7/24 1:00 PM,3899.5,-115,3899.5,-105
+Dak Prescott,1/7/24 1:00 PM,3925.5,-110,3925.5,-110
+Josh Allen,1/7/24 1:00 PM,4201.5,-110,4201.5,-110
+Kirk Cousins,1/7/24 1:00 PM,4324.5,-110,4324.5,-110
+Joe Burrow,1/7/24 1:00 PM,4349.5,-110,4349.5,-110
+Justin Herbert,1/7/24 1:00 PM,4399.5,-110,4399.5,-110
+Patrick Mahomes,1/7/24 1:00 PM,4675.5,-110,4675.5,-110
+Aaron Rodgers,1/7/24 1:00 PM,3899.5,-110,3899.5,-110
+Derek Carr,1/7/24 1:00 PM,3800.5,-110,3800.5,-110
+Anthony Richardson,1/7/24 1:00 PM,2599.5,-120,2599.5,+100
+Desmond Ridder,1/7/24 1:00 PM,2501.5,-110,2501.5,-110
+Kenny Pickett,1/7/24 1:00 PM,3275.5,-110,3275.5,-110
+Jordan Love,1/7/24 1:00 PM,3349.5,-110,3349.5,-110
+Deshaun Watson,1/7/24 1:00 PM,3649.5,-110,3649.5,-110
